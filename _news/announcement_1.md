@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-09-05 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Quitted my job to focus on the last semesters at Columbia ... also one fewer source of stress during COVID ... phew!

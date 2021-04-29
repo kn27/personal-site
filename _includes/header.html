@@ -42,6 +42,17 @@
             </a>
           </li>
           {% endif %}
+          {% if site.resume %}
+          <!-- Resume -->
+          <li class="nav-item {% if page.url contains 'resume' %}active{% endif %}">
+            <a class="nav-link" href="{{ 'https://drive.google.com/file/d/1RgkHqMlNVsyRmuqQKLZ1_ooRByFbcSnu/view?usp=sharing' | relative_url }}">
+              resume
+              {% if page.title == "resume" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          {% endif %}
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}

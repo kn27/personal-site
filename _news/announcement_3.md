@@ -1,7 +1,11 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+title: Finished my Master in Statistics at Columbia wohoo!
+date: 2021-04-27 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Finished my Master in Statistics at Columbia wohoo!
+
+
+
